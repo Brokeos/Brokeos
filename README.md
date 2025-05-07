@@ -1,6 +1,54 @@
 # 💫 About Me:
-Currently working as a software engineer
+## Full Stack Developer (.NET / Angular)
 
+Passionate about programming from a young age, I have developed strong skills in C# and Java through numerous personal projects and freelance work. Interested in both technical and conceptual challenges, I enjoy collaborating with startups as well as established organizations.
+
+---
+
+## 🧑‍💻 Professional Experience
+
+### Isagri – Vendôme, France  
+**Full-Time – Full Stack Developer (ASP / Angular)**  
+*March 2024 – Present*  
+- Developed web microservices in the accounting domain.
+
+### SII Nouvelle Aquitaine – Bordeaux, France  
+**Full-Time – C++ Developer**  
+*September 2023 – February 2024*  
+- Ported C++ software from 32-bit to 64-bit for Naval Group.
+
+### Maine-et-Loire Department – Angers, France  
+**Apprenticeship – Developer (C# / .NET)**  
+*2021 – 2023*  
+- Designed multi-database tools in C#.  
+- Built a web application using Blazor and ASP.NET to manage software license inventory.
+
+### Kiizmi – La Rochelle, France  
+**Startup – Web Developer**  
+*2020 – 2022*  
+- Developed web services using Symfony, Bootstrap, and PostgreSQL.  
+- Set up CI/CD pipelines and deployed services using Docker.
+
+---
+
+## 🎓 Education
+
+- **Master's Degree in Computer Science** – University of Angers  
+  *2021 – 2023*
+- **Bachelor's Degree in Computer Science** – University of La Rochelle  
+  *2019 – 2021*
+- **Two-Year Technical Degree in Computer Science (DUT)** – University of La Rochelle  
+  *2017 – 2019*
+
+---
+
+## 🧠 Skills
+
+- **Languages**: C#, TypeScript, Java, SQL, C++, PHP  
+- **Frameworks**: ASP.NET, Angular, Bootstrap, Blazor  
+- **Tools**: Docker, Git, Azure, RabbitMQ, Redis  
+- **Databases**: PostgreSQL, SQL Server, MariaDB  
+- **Languages**: English (B1)
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Brokeos_) 
