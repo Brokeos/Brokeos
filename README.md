@@ -5,40 +5,52 @@ Passionate about programming from a young age, I have developed strong skills in
 
 ---
 
-## 🧑‍💻 Professional Experience
+## 🧑‍💻 Professional Experience  
 
 ### Isagri – Vendôme, France  
 **Full-Time – Full Stack Developer (ASP / Angular)**  
 *March 2024 – Present*  
-- Developed web microservices in the accounting domain.
+- Developed web microservices in the accounting domain.  
+
+### Freelance – Remote  
+**Minecraft Plugins, Discord Bots & Architecture Consulting**  
+*October 2024 – Present*  
+- Developed custom Minecraft plugins (Java, Spigot).  
+- Created and maintained Discord bots.  
+- Provided architecture and software consulting.  
+
+### Rivrs – Remote  
+**Freelance – Minecraft Plugin Developer (Java)**  
+*August 2025 – Present*  
+- Designed and implemented Minecraft plugins tailored to client requirements.  
 
 ### SII Nouvelle Aquitaine – Bordeaux, France  
 **Full-Time – C++ Developer**  
 *September 2023 – February 2024*  
-- Ported C++ software from 32-bit to 64-bit for Naval Group.
+- Ported C++ software from 32-bit to 64-bit for Naval Group.  
 
 ### Maine-et-Loire Department – Angers, France  
 **Apprenticeship – Developer (C# / .NET)**  
 *2021 – 2023*  
 - Designed multi-database tools in C#.  
-- Built a web application using Blazor and ASP.NET to manage software license inventory.
+- Built a web application using Blazor and ASP.NET to manage software license inventory.  
 
 ### Kiizmi – La Rochelle, France  
 **Startup – Web Developer**  
 *2020 – 2022*  
 - Developed web services using Symfony, Bootstrap, and PostgreSQL.  
-- Set up CI/CD pipelines and deployed services using Docker.
+- Set up CI/CD pipelines and deployed services using Docker.  
 
 ---
 
-## 🎓 Education
+## 🎓 Education  
 
 - **Master's Degree in Computer Science** – University of Angers  
-  *2021 – 2023*
+  *2021 – 2023*  
 - **Bachelor's Degree in Computer Science** – University of La Rochelle  
-  *2019 – 2021*
+  *2019 – 2021*  
 - **Two-Year Technical Degree in Computer Science (DUT)** – University of La Rochelle  
-  *2017 – 2019*
+  *2017 – 2019*  
 
 ---
 
