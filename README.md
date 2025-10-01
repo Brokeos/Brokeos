@@ -5,24 +5,24 @@ Passionate about programming from a young age, I have developed strong skills in
 
 ---
 
-## 🧑‍💻 Professional Experience  
+## 🧑‍💻 Professional Experience
 
-### Isagri – Vendôme, France  
-**Full-Time – Full Stack Developer (ASP / Angular)**  
-*March 2024 – Present*  
-- Developed web microservices in the accounting domain.  
+### Rivrs – Remote  
+**Freelance – Minecraft Plugin Developer (Java)**  
+*August 2025 – Present*  
+- Designed and implemented Minecraft plugins tailored to client requirements.
 
 ### Freelance – Remote  
 **Minecraft Plugins, Discord Bots & Architecture Consulting**  
 *October 2024 – Present*  
 - Developed custom Minecraft plugins (Java, Spigot).  
 - Created and maintained Discord bots.  
-- Provided architecture and software consulting.  
+- Provided architecture and software consulting.
 
-### Rivrs – Remote  
-**Freelance – Minecraft Plugin Developer (Java)**  
-*August 2025 – Present*  
-- Designed and implemented Minecraft plugins tailored to client requirements.  
+### Isagri – Vendôme, France  
+**Full-Time – Full Stack Developer (ASP / Angular)**  
+*March 2024 – Present*  
+- Developed web microservices in the accounting domain.
 
 ### SII Nouvelle Aquitaine – Bordeaux, France  
 **Full-Time – C++ Developer**  
